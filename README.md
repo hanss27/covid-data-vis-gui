@@ -1,0 +1,10 @@
+# *MatlabCovidDataVisualisationGUI
+This is a program to display COVID-19 Data on a Matlab GUI.
+
+## *Tools Needed
+- Matlab R2019 or more
+
+# *How to Run
+- Download all zip files
+- Extract into a directory
+- Run covid_data_vis.mlapp
